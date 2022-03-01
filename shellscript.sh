@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "GitHub Script"
+echo "My GitHub Script"
 sum=$((n1 + n2))
 echo "$sum"
